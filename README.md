@@ -129,6 +129,40 @@
 - ACID-compliant schemas — **zero data inconsistency** across full production lifecycle
 - Full-stack integration (Spring Boot ↔ Angular) — owned both API contracts & UI binding
 - Implemented **RBAC** enforcing regulatory data-access on sensitive financial records
+---
+---
+
+### 🚀 Featured Personal Projects
+
+#### 🏦 BFSI Document Intelligence Platform
+> Spring Boot Gateway · FastAPI · LangChain · Ollama · PostgreSQL · pgvector · Redis · Celery · Docker · Kubernetes
+
+Built an on-premise RAG-based document intelligence system for BFSI documents such as loan agreements, policies, and contracts. The platform enables natural language querying, semantic search, structured extraction, and async document ingestion while keeping sensitive documents inside the local environment.
+
+**Key Highlights:**
+- Implemented RAG pipeline using LangChain, Ollama, pgvector, and PostgreSQL
+- Designed Spring Boot API Gateway routing to Python FastAPI AI services
+- Added Celery async workers for document ingestion
+- Used Redis caching to improve repeated query response time
+- Deployed services using Docker and Kubernetes
+
+[View Project](https://github.com/kaleaniket81-wq/BFSI-Agent)
+
+---
+
+#### 🌐 AI Agent Platform — Multi-Cloud AWS + GCP
+> Spring Boot Gateway · FastAPI · LangChain · Gemini · ChromaDB · AWS S3 · AWS RDS · EC2 · GCP BigQuery · Terraform · GitHub Actions · React
+
+Built a multi-cloud Generative AI platform where users can upload PDFs/CSVs and ask natural language questions. The system uses RAG for document search and BigQuery analytics for structured data queries.
+
+**Key Highlights:**
+- Built LangChain multi-tool agent for document search and analytics
+- Integrated Gemini 1.5 Flash for LLM responses
+- Used ChromaDB for vector similarity search
+- Provisioned AWS and GCP resources using Terraform
+- Built React dashboard with Recharts visualizations
+
+[View Project](https://github.com/kaleaniket81-wq/ai-agent-platform)
 
 ---
 
