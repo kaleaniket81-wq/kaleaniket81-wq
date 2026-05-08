@@ -8,13 +8,17 @@
 
 ### About Me
 
-- 🔭 I'm currently working on **BFSI Doc Intelligence Platform**
-- 🌱 I'm currently learning **System Design & Cloud Architecture**
-- 💬 Ask me about **Spring Boot, Microservices, REST APIs, Docker**
-- 🏦 3+ years building **production-grade systems** at Fujitsu Consulting
-- 📍 Based in **Pune, Maharashtra**
-- 📫 How to reach me: **aniketkale787@gmail.com**
-- ⚡ Fun fact: I helped eliminate **manual loan processing** workflows with microservices
+🏦 Java Backend Developer with 3+ years building production-grade systems
+in the BFSI domain at Fujitsu Consulting.
+
+💡 I specialize in Spring Boot Microservices, Cloud-Native Architecture,
+and AI-powered backend systems using RAG pipelines and LangChain.
+
+🚀 Currently building BFSI Document Intelligence Platform —
+an on-premise AI system for loan agreements, policies & contracts
+using Ollama, pgvector, and Spring Boot.
+
+📍 Pune, Maharashtra | Open to Backend / Full-Stack / AI Backend roles
 
 <br/><br/><br/><br/><br/>
 
